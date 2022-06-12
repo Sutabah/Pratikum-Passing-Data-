@@ -29,3 +29,11 @@
 
 # Coding Class LoginActivity.kt
 ![image](https://user-images.githubusercontent.com/81844622/173225313-f853114d-2fa3-49a5-853e-80b8ca44570f.png)
+
+
+# Merubah Launcer (Default Activity) Dengan LoginActivity
+![image](https://user-images.githubusercontent.com/81844622/173225598-3bcfaecd-b005-453c-8f35-39a7eaf1468b.png)
+
+
+# Hasil Running Aplikasi
+![Screenshot_2022-06-12-15-58-59-53_cbfd5348ac19e9e93e8ebf01ddad8c9a](https://user-images.githubusercontent.com/81844622/173225734-9b4cdbed-cb61-4193-8a8f-f9ea2fda7b41.jpg)
