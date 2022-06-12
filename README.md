@@ -35,5 +35,9 @@
 ![image](https://user-images.githubusercontent.com/81844622/173225598-3bcfaecd-b005-453c-8f35-39a7eaf1468b.png)
 
 
+
 # Hasil Running Aplikasi
 ![Screenshot_2022-06-12-15-58-59-53_cbfd5348ac19e9e93e8ebf01ddad8c9a](https://user-images.githubusercontent.com/81844622/173225734-9b4cdbed-cb61-4193-8a8f-f9ea2fda7b41.jpg)
+![Screenshot_2022-06-04-15-38-57-62_cbfd5348ac19e9e93e8ebf01ddad8c9a](https://user-images.githubusercontent.com/81844622/173225828-811c184c-709f-4056-8de6-12ac81bcb15c.jpg)
+![Screenshot_2022-06-04-15-46-48-27_cbfd5348ac19e9e93e8ebf01ddad8c9a](https://user-images.githubusercontent.com/81844622/173225841-8eda00a2-6659-431b-ab7a-c03776f97514.jpg)
+![Screenshot_2022-06-04-15-40-23-07_cbfd5348ac19e9e93e8ebf01ddad8c9a](https://user-images.githubusercontent.com/81844622/173225854-513b5d12-efcb-45d0-966e-ad711ec68447.jpg)
